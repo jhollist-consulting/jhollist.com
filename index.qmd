@@ -4,6 +4,6 @@ title: "jhollist consulting"
 
 jhollist consulting web coming soon.
 
-This website is built with Quartol
+This website is built with Quarto
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

@@ -1,17 +1,18 @@
 color:
   palette:
-    dark-grey: "#222222"
-    blue: "#ddeaf1"
-  background: blue
-  foreground: dark-grey
-  primary: black
+    darkgrey: "#605d5d"
+    darkblue: "#05055c"
+    darkred: "#630202"
+  background: white
+  foreground: darkblue
+  primary: darkblue
 
 logo: 
-  medium: logo.png
+  large: jhollist_logo_vert.png
 
 typography:
   fonts:
-    - family: Jura
+    - family: "Roboto Condensed"
       source: google
-  base: Jura
-  headings: Jura
+  base: "Roboto Condensed"
+  headings: "Roboto Condensed"
